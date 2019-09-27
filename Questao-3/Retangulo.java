@@ -4,7 +4,7 @@ public class Retangulo extends Quadrado {
     
     private double comprimento;
     
-    public void Retangulo(double lado, double comprimento) {
+    public Retangulo(double lado, double comprimento) {
         super(lado);
         this.comprimento = comprimento;
     }
