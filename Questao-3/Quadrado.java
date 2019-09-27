@@ -4,7 +4,7 @@ public class Quadrado {
     
     protected double lado;
     
-    public void Quadrado(double lado) {
+    public Quadrado(double lado) {
         this.lado = lado;
     }
     
